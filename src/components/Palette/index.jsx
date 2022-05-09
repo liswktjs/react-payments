@@ -2,7 +2,7 @@ import React from 'react';
 import styled from 'styled-components';
 import PropTypes from 'prop-types';
 import Selector from './Selector';
-import { cardInfoList } from '../../constant';
+import { cardInfoList } from 'constant';
 
 const Container = styled.div`
   position: absolute;
